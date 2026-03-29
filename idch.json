@@ -6,14 +6,33 @@ desc: "Dappa Official"
 { 
 id: "120363403259387464@newsletter", 
 desc: "Epinn"
-},
+}, 
+{
 id: "120363418583467337@newsletter", 
 desc: "Mpit"
 },
+{
 id: "120363418300642134@newsletter",
 desc: "Raraw"
 },
+{
 id: "120363419296607900@newsletter"
 desc: "Allsky1"
 },
+{
+id: "120363405939091122@newsletter",
+desc: "Ikhwanul"
+},
+{
+id: "120363421777746854@newsletter",
+desc: "Allsky2"
+},
+{
+id: "120363406766560653@newsletter"
+desc: "Neya"
+}, 
+{
+id: "120363420104476756@newsletter",
+desc: "punya cewe aku paling cantik"
+}
 ]
